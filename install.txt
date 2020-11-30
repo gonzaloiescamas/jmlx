@@ -1,1 +1,2 @@
-
+Hacemos una copia de seguridad con git clone
+Despues tendriamos que editar el archivo configuration.php y cambiamos el usuario/contraseña de mysql
